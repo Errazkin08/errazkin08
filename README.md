@@ -6,7 +6,7 @@
 I’m **Aimar Errazkin Peña**, a Computer Science Engineering student specializing in Management and Information Systems at the **University of the Basque Country**.
 
 ---
-
+<!--
 ## 📫 Connect With Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Aimar-grandes-orons-b66b4827a/)
