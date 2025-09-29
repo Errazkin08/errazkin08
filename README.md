@@ -3,7 +3,7 @@
 ![status](https://img.shields.io/badge/status-up-brightgreen)  
 
 
-I’m **Aimar Errazkin Peña**, a Computer Science Engineering student specializing in Management and Information Systems at the **University of the Basque Country**.
+I’m **Aimar Errazkin Peña**, a Computer Science Engineering student specializing in Software Engeneer at the **University of the Basque Country**.
 
 ---
 <!--
